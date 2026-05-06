@@ -68,3 +68,40 @@ Knack FlexiPack LLP 23°29’18.50”N 72°38’96.27”E
 __________
 Knack Energy Private Limited 23°29’23.17” N 72°38’93.55”E
 ___________
+As mentioned in the Monitoring Report and Emission Reduction Calculation sheet submitted for
+the verification, this project activity involves generation of grid connected electricity from the
+construction and operation of a new Solar power-based project for selling it to National,
+Regional grid or Self Use. The project activity has installed capacity of 2.736 MW which will
+qualify for a Small-scale project activity under Type-I of the small - Scale methodology. The
+project status is corresponding to the methodology AMS-I.D.: Grid connected renewable
+electricity generation version-18.
+
+Verified total emission reductions achieved through the project activity during the monitoring
+period is summarised below:
+
+Summary of the Project Activity
+
+Start date of MP-01  01/01/2022
+
+Carbon credits claimed up to 31/12/2024
+
+Total Carbon Credit (tCO2eq) 11,133
+________________
+Serial Number: 0001-000001-003543-UCR-CoU-IN-577-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 3543
+____________
+Serial Number: 0001-003544-007727-UCR-CoU-IN-577-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 4184
+___________
+Serial Number: 0001-007728-011133-UCR-CoU-IN-577-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 3406
+____________
